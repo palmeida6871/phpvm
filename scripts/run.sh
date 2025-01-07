@@ -2,3 +2,4 @@
 set -eu
 
 echo "phpvm"
+# clarify the control flow
